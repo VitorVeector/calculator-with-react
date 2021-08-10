@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 93.75%;
+}
+
+:root{
+  --A: #1468FE;
+  --B: #1295E6;
+  --C: #21E3FC;
+  --D: #12E6C4;
+  --E: #14FE97;
+}
+

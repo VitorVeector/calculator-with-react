@@ -1,0 +1,19 @@
+body{
+  background: linear-gradient(to right, var(--E), var(--D));
+  font-family: 'Montserrat', sans-serif;
+}
+
+#content{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+#title{
+  font-size: 2rem;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+

@@ -1,0 +1,19 @@
+:root{
+    --bg-button: #dfecf3;
+    --border-button: solid 1px #6b6b6b;
+}
+
+button{
+    font-size: 1.4rem;
+    background-color: var(--bg-button);
+    border: none;
+    border-right: var(--border-button);
+    border-bottom: var(--border-button);
+    outline: none;
+}
+
+button:hover{
+    cursor: pointer;
+    border-right: none;
+    border-bottom: none;
+}
