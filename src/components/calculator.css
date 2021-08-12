@@ -1,12 +1,11 @@
-#calculator{
+.calculator{
     width: 20rem;
     height: 30rem;
     border-radius: .50rem;
-    background-color: var(--B);
-    
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: .7fr 60px 60px 60px 60px 60px;
 }
 
 
